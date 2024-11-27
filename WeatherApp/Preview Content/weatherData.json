@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 81,
+    "lat": 7
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.26,
+    "feels_like": 302.48,
+    "temp_min": 302.26,
+    "temp_max": 302.26,
+    "pressure": 1006,
+    "humidity": 46,
+    "sea_level": 1006,
+    "grnd_level": 918
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.04,
+    "deg": 115,
+    "gust": 4.03
+  },
+  "clouds": {
+    "all": 80
+  },
+  "dt": 1726828505,
+  "sys": {
+    "country": "LK",
+    "sunrise": 1726791937,
+    "sunset": 1726835598
+  },
+  "timezone": 19800,
+  "id": 1227603,
+  "name": "Sri Lanka",
+  "cod": 200
+}

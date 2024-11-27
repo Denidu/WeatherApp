@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+extension Double{
+    func round() -> String{
+        return String(format:"%.0f",self)
+    }
+}
